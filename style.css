@@ -1,0 +1,23 @@
+* {
+    background-color: #4169E1;
+    color: white;
+    font-family: "Lucida Console", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.image {
+    width: 350px;
+    height: auto;
+    line-height: 2;
+    border: 1px solid white;
+    border-radius: 6px;
+    margin: 20px 50px;
+}
+
+h3, p, ul, ol {
+    margin: 20px 50px;
+}
